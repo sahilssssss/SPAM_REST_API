@@ -1,4 +1,4 @@
-### Project Highlights for Resume
+### Project Highlights
 
 **Developed a REST API for spam checking** using Django and PostgreSQL, enabling functionalities like user registration, marking phone numbers as spam, and performing searches by name or phone number.
 
